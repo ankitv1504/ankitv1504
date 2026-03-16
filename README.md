@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Vishwakarma
 
-🚀 **DevOps Engineer | AWS | Kubernetes (EKS) | Docker | Terraform | CI/CD | Jenkins | GitHub Actions | ArgoCD | Prometheus | Grafana | ELK | 4+ Years Experience**
+🚀 **DevOps Engineer | AWS | Kubernetes (EKS) | Docker | Terraform | CI/CD | Jenkins | GitHub Actions | ArgoCD | Prometheus | Grafana | ELK **
 
 DevOps Engineer with **4+ years of experience in IT**, including **3+ years specializing in cloud infrastructure, CI/CD automation, and containerized deployments**. Experienced in designing **high-availability AWS architectures**, implementing **Infrastructure as Code (Terraform)**, and managing containerized workloads on **Kubernetes (EKS) and ECS Fargate**.
 
