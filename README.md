@@ -1,21 +1,22 @@
 # 👋 Hi, I'm Ankit Vishwakarma
 
-🚀 **DevOps Engineer | AWS | Kubernetes (EKS) | Docker | Terraform | CI/CD | Jenkins | GitHub Actions | ArgoCD | Prometheus | Grafana | ELK **
+🚀 **DevOps Engineer | AWS | Kubernetes (EKS) | Docker | Terraform | CI/CD | Jenkins | GitHub Actions | ArgoCD | Prometheus | Grafana | ELK**
 
-DevOps Engineer with **4+ years of experience in IT**, including **3+ years specializing in cloud infrastructure, CI/CD automation, and containerized deployments**. Experienced in designing **high-availability AWS architectures**, implementing **Infrastructure as Code (Terraform)**, and managing containerized workloads on **Kubernetes (EKS) and ECS Fargate**.
-
+DevOps Engineer with 4+ years of IT experience, including 3+ years specializing in AWS cloud infrastructure, Kubernetes (EKS), Terraform, and CI/CD automation.
+Experienced in building and managing scalable cloud environments, containerized applications, GitOps workflows, infrastructure automation, and monitoring solutions.
+Started my career in QA & Project Coordination and transitioned into DevOps by working on deployment processes, cloud infrastructure, automation, and release management.
 I focus on building **scalable, secure, and automated cloud infrastructure** that improves deployment speed, reliability, and operational efficiency.
 
 ---
 # 🧑‍💻 About Me
 
-* ☁️ DevOps Engineer working with **AWS Cloud Infrastructure**
-* ⚙️ Building **CI/CD pipelines using Jenkins, GitHub Actions & GitLab**
-* 🐳 Deploying applications using **Docker & Kubernetes (EKS)**
+* ☁️ DevOps Engineer focused on AWS Cloud Infrastructure
+* ⚙️ Building **CI/CD pipelines using Jenkins, GitHub Actions**
+* 🐳 Deploying and managing containerized applications using Docker & Kubernetes (EKS)
 * 🏗️ Automating infrastructure using **Terraform & Ansible**
 * 📊 Monitoring systems using **Prometheus, Grafana & CloudWatch**
 * 🔁 Implementing **GitOps workflows with Argo CD , Helm**
-* 🎯 Focused on **automation, scalability, and high availability systems**
+* 🎯 Focused on automation, scalability, reliability, and cloud-native systems
 
 ---
 # 🛠 Tech Stack
@@ -25,6 +26,7 @@ I focus on building **scalable, secure, and automated cloud infrastructure** tha
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
@@ -34,6 +36,7 @@ I focus on building **scalable, secure, and automated cloud infrastructure** tha
 ![Auto%20Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon SNS](https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Systems Manager](https://img.shields.io/badge/AWS%20Systems%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📦 Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,13 +87,14 @@ I focus on building **scalable, secure, and automated cloud infrastructure** tha
 
 **P&P Infotech Applying Solutions** | Mar 2023 – Present
 
-* Engineered **CI/CD pipelines using Jenkins and GitHub Actions**, reducing deployment time by **60%**
-* Provisioned **AWS infrastructure using Terraform modules** with remote state (S3 + DynamoDB)
-* Containerized applications using **Docker** and deployed microservices on **Kubernetes (EKS)**
-* Automated server configuration using **Ansible playbooks and Vault**
-* Developed automation scripts in **Bash & Python**
-* Implemented **monitoring and alerting using Prometheus, Grafana, and CloudWatch**
-* Reduced manual operational effort by **40% through automation**
+• Designed and maintained CI/CD pipelines using Jenkins and GitHub Actions.
+• Provisioned AWS infrastructure using Terraform modules with remote state management using S3 and DynamoDB.
+• Deployed containerized applications on Kubernetes (EKS) using Docker and Helm.
+• Implemented GitOps based deployments using Argo CD.
+• Automated configuration management using Ansible playbooks and Vault.
+• Built monitoring and alerting solutions using Prometheus, Grafana and AWS CloudWatch.
+• Developed Bash/Python automation scripts for operational tasks and troubleshooting.
+• Collaborated with development teams during release cycles and production deployments.
 
 ---
 
@@ -98,10 +102,10 @@ I focus on building **scalable, secure, and automated cloud infrastructure** tha
 
 **P&P Infotech Applying Solutions** | Dec 2021 – Feb 2023
 
-* Coordinated development workflows between **developers, QA teams, and stakeholders**
-* Identified and tracked critical defects improving **product stability**
-* Assisted in **release management and deployment cycles**
-* Gained exposure to **SDLC, CI/CD pipelines, and DevOps workflows**
+• Managed testing workflows and coordinated between development, QA and business teams.
+• Supported release cycles, deployment coordination and validation activities.
+• Worked closely with engineering teams and gained exposure to CI/CD workflows, Linux environments and deployment processes.
+• Transitioned into DevOps role by developing skills in cloud infrastructure and automation.
 
 ---
 
@@ -109,19 +113,20 @@ I focus on building **scalable, secure, and automated cloud infrastructure** tha
 ⚠️ Note: Due to company confidentiality and NDA restrictions, source code for production projects cannot be shared publicly.
 The repositories here demonstrate similar DevOps implementations using sample applications and infrastructure.
 
-## 🔹 High Availability Node.js Deployment on AWS
+## 🔹 Highly Available E-Commerce Platform — AWS EKS
 
-**Tech Stack**
+Tech Stack:
+AWS EKS | Terraform | Docker | Helm | GitHub Actions | Prometheus | Grafana | RDS | ALB | SSM
 
-Node.js | React | MySQL | AWS EC2 | ALB | Auto Scaling | RDS | CloudWatch | SNS
+Key Highlights:
 
-**Key Achievements**
-
-* Designed **3-tier highly available AWS architecture**
-* Implemented **private subnet architecture**
-* Secured instances using **AWS Systems Manager (No SSH access)**
-* Configured **Application Load Balancer & Auto Scaling**
-* Deployed **Multi-AZ RDS database**
+ • Designed 3-tier AWS architecture across multiple availability zones.
+ • Provisioned infrastructure using Terraform.
+ • Deployed microservices on Kubernetes using Helm.
+ • Implemented HPA for automatic scaling.
+ • Configured monitoring using Prometheus and Grafana.
+ • Automated deployment workflow:
+GitHub Actions → Docker Build → ECR Push → Helm Deploy → EKS
 
 ---
 
